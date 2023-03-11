@@ -1,3 +1,3 @@
 # AsteroidsClone
 
-Just a basic clone of the asteroids game
+clone of asteroids game
