@@ -1,3 +1,3 @@
 # AsteroidsClone
 
-clone of asteroids game
+remake of asteroids game
